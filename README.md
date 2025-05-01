@@ -1,7 +1,7 @@
 # Countermovement Jump (CMJ) Analysis Tool
 
 A MATLAB-based tool to compute biomechanical metrics from vertical ground reaction force (vGRF) data during countermovement jumps.
-
+Reference: https://doi.org/10.3390/life13010190
 
 
 ## Features
