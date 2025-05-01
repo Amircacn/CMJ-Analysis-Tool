@@ -2,7 +2,7 @@
 
 A MATLAB-based tool to compute biomechanical metrics from vertical ground reaction force (vGRF) data during countermovement jumps.
 
-![Force-Velocity Plot](plot_example.png) *(Optional: Add a sample plot image)*
+
 
 ## Features
 - Calculates 21 CMJ metrics (e.g., jump height, leg stiffness, RSI modified).
